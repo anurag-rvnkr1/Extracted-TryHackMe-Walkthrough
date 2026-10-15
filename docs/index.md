@@ -83,32 +83,31 @@ The investigation follows the evidence rather than exploiting a live application
 
 ## Navigation
 
-**Documentation Map**
-
 <div class="ctf-toc">
-  <div class="ctf-toc-title">Navigation</div>
-
-  - <a href="#mission">Mission</a>
-  - <a href="#quick-overview">Quick Overview</a>
-  - <a href="#assessment-objectives">Assessment Objectives</a>
-  - <a href="#target-and-lab-information">Target and Lab Information</a>
-  - <a href="#tools-used">Tools Used</a>
-  - <a href="#lab-architecture">Lab Architecture</a>
-  - <a href="#reconnaissance">Reconnaissance</a>
-  - <a href="#service-enumeration">Service Enumeration</a>
-  - <a href="#web-application-enumeration">Web Application Enumeration</a>
-  - <a href="#vulnerability-discovery">Vulnerability Discovery</a>
-  - <a href="#exploitation">Exploitation</a>
-  - <a href="#initial-access">Initial Access</a>
-  - <a href="#post-exploitation">Post-Exploitation</a>
-  - <a href="#credential-discovery">Credential Discovery</a>
-  - <a href="#privilege-escalation">Privilege Escalation</a>
-  - <a href="#attack-chain-summary">Attack Chain Summary</a>
-  - <a href="#security-findings">Security Findings</a>
-  - <a href="#detection-engineering">Detection Engineering</a>
-  - <a href="#defensive-recommendations">Defensive Recommendations</a>
-  - <a href="#lessons-learned">Lessons Learned</a>
-  - <a href="#conclusion">Conclusion</a>
+<div class="ctf-toc-title">Documentation Map</div>
+<ul>
+  <li><a href="#mission">Mission</a></li>
+  <li><a href="#quick-overview">Quick Overview</a></li>
+  <li><a href="#assessment-objectives">Assessment Objectives</a></li>
+  <li><a href="#target-and-lab-information">Target and Lab Information</a></li>
+  <li><a href="#tools-used">Tools Used</a></li>
+  <li><a href="#lab-architecture">Lab Architecture</a></li>
+  <li><a href="#reconnaissance">Reconnaissance</a></li>
+  <li><a href="#service-enumeration">Service Enumeration</a></li>
+  <li><a href="#web-application-enumeration">Web Application Enumeration</a></li>
+  <li><a href="#vulnerability-discovery">Vulnerability Discovery</a></li>
+  <li><a href="#exploitation">Exploitation</a></li>
+  <li><a href="#initial-access">Initial Access</a></li>
+  <li><a href="#post-exploitation">Post-Exploitation</a></li>
+  <li><a href="#credential-discovery">Credential Discovery</a></li>
+  <li><a href="#privilege-escalation">Privilege Escalation</a></li>
+  <li><a href="#attack-chain-summary">Attack Chain Summary</a></li>
+  <li><a href="#security-findings">Security Findings</a></li>
+  <li><a href="#detection-engineering">Detection Engineering</a></li>
+  <li><a href="#defensive-recommendations">Defensive Recommendations</a></li>
+  <li><a href="#lessons-learned">Lessons Learned</a></li>
+  <li><a href="#conclusion">Conclusion</a></li>
+</ul>
 </div>
 
 ## Investigation Objectives
